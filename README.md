@@ -7,7 +7,7 @@ Telegram spamer, inviter and parser
 
 # Installation
 * Windows:
-* free trial for 90 days
+  * Free trial for 90 days
   * Download  [Installer 64-32bit](https://www.google.com)
   
 * Termux:
