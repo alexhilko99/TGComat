@@ -7,15 +7,7 @@ Telegram spamer, inviter and parser
 
 # Installation
 * Windows:
-  * Download Python 3.8 [here](https://www.python.org/downloads/release/python-38) 
-  * Launch installer, click 'add python to PATH'
-  * Download **TGPars**
-  * Open Command Line in **TGPars directory**
-  * Run command: ***python setup.py -i**`
-  * Then go to [my.telegram.org] and login in your account
-  * Choose API Development Tools
-  * In Command Line run ***python setup.py -c***
-  * Enter api_id, api_hash and phone number
+  * Download  [Текст ссылки](ya.ru)
   
 * Termux:
   * `pkg update`
