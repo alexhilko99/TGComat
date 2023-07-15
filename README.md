@@ -38,17 +38,8 @@ Telegram spamer, inviter and parser
 * Spam
   * `python smsbot.py members.csv`
 
-#Telegram
-#Automation
-#Spam
-#Invite
-#Messaging
-#Bot
-#Promotion
-#Marketing
-#Users
-#Groups
-#Channels
-#Analytics
-#Management
-#Programming
+## Теги
+- #программирование
+- #веб-разработка
+- #искусственныйинтеллект
+
