@@ -1,4 +1,4 @@
-🧾TGPars
+🧾TGComat
 Telegram spamer, inviter and parser
 ===================================
 <p align="center">
