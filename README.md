@@ -7,7 +7,7 @@ Telegram spamer, inviter and parser
 
 # Installation
 * Windows:
-  * Download  [Текст ссылки](ya.ru)
+  * Download  [Текст ссылки](https://www.google.com)
   
 * Termux:
   * `pkg update`
