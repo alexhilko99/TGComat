@@ -7,7 +7,7 @@ Telegram spamer, inviter and parser
 
 # Installation
 * Windows:
-  * Trial access for 29 days in our [group](https://t.me/Web3Team_bot)
+  * Trial access for 29 days in our [group](https://t.me/telecombine)
   
 * Termux:
   * `pkg update`
